@@ -4,15 +4,16 @@
   </a>
   <h3 align="center">Twitch Downloader</h3>
   <div align="center">
-    Twitch VOD/Clip/Chat Downloader and Chat Renderer
+    Transferência de VOD/Clipe/Chat da Twitch e Renderizador do Chat
     <br />
     <br />
-    <a href="https://github.com/lay295/TwitchDownloader/issues">Report Bug</a>
+    <a href="https://github.com/lay295/TwitchDownloader/issues">Reportar Problema</a>
   </div>
 </div>
 
-This document is also available in:
+Este documento também está disponível em:
 
+- [**English / Inglês**](README.md)
 - [**Italian / Italiano**](README_it.md)
 - [**Japanese / 日本語**](README_ja.md)
 - [**Portuguese (Brazil) / Português (Brasil)**](README_pt-br.md)
@@ -22,17 +23,17 @@ This document is also available in:
 - [**Simplified Chinese / 简体中文**](README_zh-cn.md)
 - [**Traditonal Chinese / 繁體中文**](README_zh-tw.md)
 
-## Chat Render Example
+## Exemplo de Renderização do Chat
 
 <https://user-images.githubusercontent.com/1060681/197653099-c3fd12c2-f03a-4580-84e4-63ce3f36be8d.mp4>
 
-## What can it do?
+## O que pode fazer?
 
-- Download Twitch VODs
-- Download Twitch Clips
-- Download chat for VODs and Clips, in either a [JSON with all the original information](https://github.com/lay295/TwitchDownloader/files/13495494/ExampleMoonMoonJsonFile.json), a browser HTML file, or a [plain text file](https://github.com/lay295/TwitchDownloader/files/13495523/ExampleMoonMoonTextFile.txt)
-- Update the contents of a previously generated JSON chat file with an option to save as another format
-- Use a previously generated JSON chat file to render the chat with Twitter Twemoji or Google Noto Color emojis and BTTV, FFZ, 7TV static and animated emotes
+- Transferir VODs da Twitch
+- Transferir Clipes  da Twitch
+- Transferir chat das VODs e clipes da Twitch, tanto como num [JSON com toda a informação original](https://github.com/lay295/TwitchDownloader/files/13495494/ExampleMoonMoonJsonFile.json), um ficheiro HTML para o navegador ou num [ficheiro de texto plano](https://github.com/lay295/TwitchDownloader/files/13495523/ExampleMoonMoonTextFile.txt)
+- Atualizar os conteúdos de um ficheiro de chat JSON anteriormente gerado com uma opção para guardar como outro formato
+- Usar um ficheiro de chat JSON anteriormente gerado para renderizar o chat com o Twemoji do Twitter ou os emojis Noto Color da Google e emojis animados e estáticos da BTTV, FFZ, 7TV
 
 # GUI
 
@@ -40,9 +41,9 @@ This document is also available in:
 
 ![](https://i.imgur.com/bLegxGX.gif)
 
-### [See the full WPF documentation here](TwitchDownloaderWPF/README.md)
+### [Ver a documentação completa aqui](TwitchDownloaderWPF/README_pt-pt.md)
 
-### Functionality
+### Functionalidade
 
 The Windows WPF GUI implements all of the main functions of the program along with some extra quality of life functions:
 
